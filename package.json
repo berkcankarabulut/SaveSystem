@@ -1,0 +1,14 @@
+{
+  "name": "com.berkcankarabulut.savesystem",
+  "version": "1.0.0",
+  "displayName": "Save System",
+  "description": "System System",
+  "author": {
+    "name": "Berkcan Karabulut",
+    "url": "https://github.com/berkcankarabulut"
+  },
+  "dependencies": {
+    "com.berkcankarabulut.eventbushandler": "https://github.com/berkcankarabulut/EventBusHandler.git#main",
+    "com.berkcankarabulut.singletonhandler": "https://github.com/berkcankarabulut/SingletonHandler.git#main"
+  }
+}

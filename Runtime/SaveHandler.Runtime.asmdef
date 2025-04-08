@@ -1,0 +1,17 @@
+{
+    "name": "SaveHandler.Runtime",
+    "rootNamespace": "SaveHandler.Runtime",
+    "references": [
+        "GUID:e3d087351e495014dbd67959a4d42256",
+        "GUID:1b879c641f23fc74d9568cdc31bf9300"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
