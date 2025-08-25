@@ -9,8 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6182501670675171803}
-  - component: {fileID: 9074351117847024795}
-  - component: {fileID: 1376670075562641355}
+  - component: {fileID: 9066578025662189860}
   m_Layer: 0
   m_Name: SavingSystem
   m_TagString: Untagged
@@ -33,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9074351117847024795
+--- !u!114 &9066578025662189860
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42,20 +41,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6182501670675171802}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2f2d5973a5783684a8d21686d68f6d56, type: 3}
+  m_Script: {fileID: 11500000, guid: fb9d96be40ed4924b9e34a6d5740f688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1376670075562641355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6182501670675171802}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 408b6e1b00b3296479b16561fd5cfd78, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  defaultSaveFile: XXSave
-  _savingSystem: {fileID: 9074351117847024795}
+  _onSaveablesRequested: {fileID: 11400000, guid: 49996180f00d5c843890a2f093ac592c,
+    type: 2}

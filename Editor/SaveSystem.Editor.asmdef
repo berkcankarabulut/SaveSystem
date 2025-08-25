@@ -1,9 +1,7 @@
 {
-    "name": "SaveHandler.Editor",
-    "rootNamespace": "SaveHandler.Editor",
-    "references": [
-        "GUID:2f46e42246a11d143b31fdbe7feec262"
-    ],
+    "name": "SaveSystem.Editor",
+    "rootNamespace": "SaveSystem.Editor",
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],

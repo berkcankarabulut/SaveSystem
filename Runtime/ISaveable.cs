@@ -1,4 +1,4 @@
-namespace SaveHandler.Runtime
+namespace SaveSystem.Runtime
 {
     public interface ISaveable
     {
